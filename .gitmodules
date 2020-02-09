@@ -1,0 +1,6 @@
+[submodule "travel-hack-backend"]
+	path = travel-hack-backend
+	url = https://github.com/Travel-Gird/travel-hack-backend.git
+[submodule "TravelHackStartUp"]
+	path = TravelHackStartUp
+	url = https://github.com/smirnovaleksei/TravelHackStartUp.git
